@@ -6,7 +6,7 @@ import {
   dispatchMutationReq,
   dispatchMutationResp,
   dispatchMutationErr,
-} from "@openimis/fe-core";
+} from "@stssocialst-stp/fe-core";
 
 function reducer(
   state = {

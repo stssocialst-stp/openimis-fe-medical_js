@@ -15,7 +15,7 @@ import {
   AmountInput,
   TextInput,
   Error,
-} from "@openimis/fe-core";
+} from "@stssocialst-stp/fe-core";
 import { Paper, Box } from "@material-ui/core";
 import _ from "lodash";
 import { fetchMedicalService, fetchMedicalServices } from "../actions"

@@ -14,7 +14,7 @@ import {
   ValidatedTextInput,
   withHistory,
   withModulesManager,
-} from "@openimis/fe-core";
+} from "@stssocialst-stp/fe-core";
 import { medicalItemsValidationCheck, medicalItemsValidationClear, medicalItemsSetValid } from "../actions";
 import { ITEM_CODE_MAX_LENGTH } from "../constants";
 

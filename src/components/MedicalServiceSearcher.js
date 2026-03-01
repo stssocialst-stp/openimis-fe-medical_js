@@ -11,7 +11,7 @@ import {
   Searcher,
   journalize,
   formatDateFromISO,
-} from "@openimis/fe-core";
+} from "@stssocialst-stp/fe-core";
 
 import { fetchMedicalServicesSummaries, deleteMedicalService } from "../actions";
 import { RIGHT_MEDICALSERVICES_DELETE } from "../constants";

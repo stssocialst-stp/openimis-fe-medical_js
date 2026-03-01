@@ -3,7 +3,7 @@ import { injectIntl } from "react-intl";
 
 import { Checkbox, FormControlLabel, Typography } from "@material-ui/core";
 
-import { formatMessage } from "@openimis/fe-core";
+import { formatMessage } from "@stssocialst-stp/fe-core";
 import { PATIENT_CATEGORIES, GENDER_CATEGORIES, AGE_CATEGORIES } from "../constants";
 
 class PatientCategoryPicker extends Component {

@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Checkbox, FormControlLabel } from "@material-ui/core";
-import { formatMessage } from "@openimis/fe-core";
+import { formatMessage } from "@stssocialst-stp/fe-core";
 import { MANUAL_PRICE } from "../constants";
 import { injectIntl } from "react-intl";
 

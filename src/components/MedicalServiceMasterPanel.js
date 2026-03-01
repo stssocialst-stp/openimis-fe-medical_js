@@ -15,7 +15,7 @@ import {
   ValidatedTextInput,
   withHistory,
   withModulesManager,
-} from "@openimis/fe-core";
+} from "@stssocialst-stp/fe-core";
 import { medicalServicesValidationCheck, medicalServicesValidationClear, medicalServicesSetValid } from "../actions";
 import { SERVICE_CODE_MAX_LENGTH, SERVICE_TYPE_PP_F, SERVICE_TYPE_PP_S } from "../constants";
 

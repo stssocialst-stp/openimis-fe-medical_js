@@ -18,7 +18,7 @@ import {
   ProgressOrError,
   withHistory,
   withModulesManager,
-} from "@openimis/fe-core";
+} from "@stssocialst-stp/fe-core";
 import {
   createMedicalItem,
   fetchMedicalItem,

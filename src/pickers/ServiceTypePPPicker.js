@@ -1,5 +1,5 @@
 import React from "react";
-import { ConstantBasedPicker } from "@openimis/fe-core";
+import { ConstantBasedPicker } from "@stssocialst-stp/fe-core";
 
 import { SERVICE_TYPES_PP } from "../constants";
 

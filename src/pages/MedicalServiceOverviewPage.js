@@ -9,7 +9,7 @@ import {
   historyPush,
   withHistory,
   withModulesManager
-} from "@openimis/fe-core";
+} from "@stssocialst-stp/fe-core";
 import MedicalServicePage from "./MedicalServicePage";
 
 class MedicalServiceOverviewPage extends Component {

@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Autocomplete, toISODate, useGraphqlQuery, useTranslations } from "@openimis/fe-core";
+import { Autocomplete, toISODate, useGraphqlQuery, useTranslations } from "@stssocialst-stp/fe-core";
 
 const ServicePicker = (props) => {
   const {

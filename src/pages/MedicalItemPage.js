@@ -10,7 +10,7 @@ import {
   historyPush,
   ErrorBoundary,
   Helmet,
-} from "@openimis/fe-core";
+} from "@stssocialst-stp/fe-core";
 import MedicalItemForm from "../components/MedicalItemForm";
 import { createMedicalItem, updateMedicalItem } from "../actions";
 import { RIGHT_MEDICALITEMS_ADD, RIGHT_MEDICALITEMS_EDIT } from "../constants";

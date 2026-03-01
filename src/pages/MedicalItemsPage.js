@@ -15,7 +15,7 @@ import {
   withModulesManager,
   withTooltip,
   clearCurrentPaginationPage,
-} from "@openimis/fe-core";
+} from "@stssocialst-stp/fe-core";
 import MedicalItemSearcher from "../components/MedicalItemSearcher";
 
 const styles = (theme) => ({

@@ -12,7 +12,7 @@ import {
   TextInput,
   formatMessage,
   ErrorBoundary,
-} from "@openimis/fe-core";
+} from "@stssocialst-stp/fe-core";
 
 const styles = (theme) => ({
   dialogTitle: theme.dialog.title,

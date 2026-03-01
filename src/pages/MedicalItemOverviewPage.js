@@ -3,7 +3,7 @@ import { injectIntl } from "react-intl";
 import { connect } from "react-redux";
 import { Edit as EditIcon } from "@material-ui/icons";
 import { historyPush, withModulesManager, withHistory, ErrorBoundary, Helmet, formatMessageWithValues }
-  from "@openimis/fe-core";
+  from "@stssocialst-stp/fe-core";
 import MedicalItemPage from "./MedicalItemPage";
 
 class MedicalItemOverviewPage extends Component {
